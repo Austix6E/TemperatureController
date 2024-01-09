@@ -1,0 +1,48 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\austi\Documents\CurrentDevelopment\Circuit\TemperatureController\TempController\TempController.PcbDoc
+Date     : 12/22/2023
+Time     : 4:09:59 AM
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=99999mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room B (Bounding Region = (37263.779mil, 29602.362mil, 38925.197mil, 30122.047mil) (InComponentClass('B'))
+Rule Violations :0
+
+Processing Rule : Room C (Bounding Region = (37263.779mil, 29074.803mil, 38925.197mil, 29594.488mil) (InComponentClass('C'))
+Rule Violations :0
+
+Processing Rule : Room A (Bounding Region = (37263.779mil, 30129.921mil, 38925.197mil, 30649.606mil) (InComponentClass('A'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=99999mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
